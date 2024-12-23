@@ -30,7 +30,7 @@ pip install pandas numpy scikit-learn
 ### Step 1: Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/abdullah-abdalgawwad/spam-detection-ml.git
+git clone https://github.com/gawadx1/spam-detection-ml.git
 ```
 
 ### Step 2: Navigate to the Project Directory
