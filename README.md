@@ -49,7 +49,7 @@ The script includes example comments to test the model. You can modify these or 
 
 ## GUI Preview
 
-![GUI Preview]([path/to/your/gui-image.png](https://github.com/user-attachments/assets/0535864e-6ffe-43b3-b5ac-487d3f66049b))
+![GUI Preview](![Screenshot 2024-12-23 083123](https://github.com/user-attachments/assets/0535864e-6ffe-43b3-b5ac-487d3f66049b))
 
 ## Code Explanation
 ### Main Steps:
