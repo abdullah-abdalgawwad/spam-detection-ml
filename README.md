@@ -90,9 +90,3 @@ Prediction: Not Spam
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Author
-[Abdullah](https://github.com/abdullah-abdalgawwad)
-
-Feel free to contribute to this project by creating issues or submitting pull requests!
-
